@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remove-project name="platform/external/gflags" />
     <remove-project name="device/amlogic/yukawa" />
     <remove-project name="device/amlogic/yukawa-kernel" />
     <remove-project name="device/common" />
@@ -163,7 +162,6 @@
     <remove-project name="platform/external/gemmlowp"/>
     <remove-project name="platform/external/geojson-jackson"  />
     <remove-project name="platform/external/geonames"  />
-    <remove-project name="platform/external/gflags"  />
     <remove-project name="platform/external/giflib"/>
     <remove-project name="platform/external/glide"/>
     <remove-project name="platform/external/google-benchmark"  />
